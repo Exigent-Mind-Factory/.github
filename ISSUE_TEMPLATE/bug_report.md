@@ -1,6 +1,7 @@
 ---
 name: Bug Report
-about: Report a bug to help us improve
+about: Create a report to help us improve
+labels: bug
 ---
 
 **Describe the bug**
@@ -18,6 +19,11 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**Environment (please complete the following information):**
+- OS: [e.g. Windows, macOS, Linux]
+- Browser [e.g. Chrome, Safari, Firefox]
+- Version [e.g. 22]
 
 **Additional context**
 Add any other context about the problem here.
