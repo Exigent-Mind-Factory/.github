@@ -1,0 +1,14 @@
+*.json
+*.xlsx
+*.conf
+*.pdf
+*.csv
+*.xls
+*.txt
+/data
+/indata
+/outdata
+.DS_Store
+.zip
+.gz
+.tif
